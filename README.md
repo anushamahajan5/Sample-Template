@@ -1,26 +1,24 @@
-# Sample <LANGUAGE/FRAMEWORK> for Daytona
+# Sample Template for Daytona
 
 This repository contains a sample README for Daytona Samples, licensed under the MIT License.
 
-It serves as a template to create sample repositories that can be added to [Daytona](https://github.com/daytonaio/daytona).
-
-Once your sample is complete and merged, you can open a Pull Request (PR) in the Daytona repository to submit your sample to the [index file](https://github.com/daytonaio/daytona/blob/main/hack/samples/index.json).
-
 ---
 
-## 🚀 Getting Started  
+## 🚀 Getting Started
 
-### 1. Open Using Daytona  
+### 1. Install Daytona
 
-#### Install Daytona
 To get started, first install Daytona by following the [installation guide](https://www.daytona.io/docs/installation/installation/).
 
-#### Create the Workspace
+### 2. Create the Workspace
+
 Once Daytona is installed, create a workspace by running the following command:
+
 ```bash
 daytona create https://github.com/anushamahajan5/Sample-Template.git
 
-2. Start the Application
+
+3. Start the Application
 To start the application, run:
 
 bash
@@ -38,17 +36,14 @@ Example feature 3 (e.g., Easy integration with Daytona)
 Follow the steps below to set up your project:
 
 Clone this repository:
-
 bash
 Copy code
 git clone https://github.com/anushamahajan5/Sample-Template.git
 Set up the development environment using Daytona:
-
 bash
 Copy code
 daytona create
 Start the project:
-
 To build the project:
 bash
 Copy code
@@ -57,23 +52,10 @@ Or to start the app:
 bash
 Copy code
 npm start
-Prerequisites
+⚙️ Prerequisites
 Before you begin, ensure you have the following installed:
 
 Docker (for running containers)
 Daytona CLI (for setting up and managing your project)
 📄 License
 This repository is licensed under the MIT License. See the LICENSE file for more details.
-
-Notes
-Feel free to customize this README further depending on the specific language or framework used in your sample.
-
-vbnet
-Copy code
-
-This should meet your formatting needs. Let me know if you need any further changes!
-
-
-
-
-
