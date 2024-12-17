@@ -19,3 +19,61 @@ To get started, first install Daytona by following the [installation guide](http
 Once Daytona is installed, create a workspace by running the following command:
 ```bash
 daytona create https://github.com/anushamahajan5/Sample-Template.git
+
+2. Start the Application
+To start the application, run:
+
+bash
+Copy code
+command to start the app
+If there are additional setup steps, add them here.
+
+✨ Features
+The sample includes the following features:
+
+Example feature 1 (e.g., Real-time chat functionality)
+Example feature 2 (e.g., Standardized development environment with devcontainers)
+Example feature 3 (e.g., Easy integration with Daytona)
+🔧 Steps to Use Daytona
+Follow the steps below to set up your project:
+
+Clone this repository:
+
+bash
+Copy code
+git clone https://github.com/anushamahajan5/Sample-Template.git
+Set up the development environment using Daytona:
+
+bash
+Copy code
+daytona create
+Start the project:
+
+To build the project:
+bash
+Copy code
+npm run build
+Or to start the app:
+bash
+Copy code
+npm start
+Prerequisites
+Before you begin, ensure you have the following installed:
+
+Docker (for running containers)
+Daytona CLI (for setting up and managing your project)
+📄 License
+This repository is licensed under the MIT License. See the LICENSE file for more details.
+
+Notes
+Feel free to customize this README further depending on the specific language or framework used in your sample.
+
+vbnet
+Copy code
+
+This should meet your formatting needs. Let me know if you need any further changes!
+
+
+
+
+
