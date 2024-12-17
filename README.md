@@ -32,3 +32,22 @@ Sample description
 ## ✨ Features  
 
 List of sample features (e.g. realtime chat app, standardized development environment with devcontainers)
+
+
+
+### Steps to Use Daytona
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/project-name.git
+
+2. Run the following command to set up the development environment:
+daytona create
+
+3. Start the project:
+   npm run build or npm start
+
+Prerequisites
+Docker installed
+Daytona CLI
+
+daytona create
